@@ -2,6 +2,8 @@
 
 #include "length.h"
 
+// Note : Default unit is Meter
+
 float calculateMeter(Unit outputUnit, float value) {
 	switch(outputUnit) {
 		case NANO:

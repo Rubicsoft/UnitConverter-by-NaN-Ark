@@ -14,6 +14,7 @@
 
 #define MEGA 7
 #define GIGA 8
+#define TERA 9
 
 typedef int Unit;
 
